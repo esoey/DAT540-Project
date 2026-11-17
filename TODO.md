@@ -1,5 +1,0 @@
-- Kan se på hvor dårlig linear regression er i forhold til de andre
-- Skrive rapport
-- Evaluere beste modell på test sett
-- Identifisere key features 
-- Legge til minst ett plot til på Data Exploration 
