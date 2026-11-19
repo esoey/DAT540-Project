@@ -1,0 +1,4 @@
+pandas
+sckikit-learn
+matplotlib
+seaborn
