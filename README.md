@@ -4,7 +4,7 @@ Project 1: Explainable Machine Learning for Gallstone Disease
 ## Requirements
 
 - Python 3.10 or newer
-- Jupyter (Notebook, JupyteLab or VS Code with Jupyter extension)
+- Jupyter (Notebook, JupyterLab or VS Code with Jupyter extension)
 - The following Python packages:
   - pandas
   - numpy
