@@ -11,6 +11,9 @@ Project 1: Explainable Machine Learning for Gallstone Disease
   - scikit-learn
   - matplotlib
   - seaborn
+  - shap
+
+  (Or run `pip install -r requirements.txt`)
  
 - Data file:
   - `dataset-uci.csv` (The UCI Gallstone dataset, 319 patients, 38 features)
