@@ -2,3 +2,4 @@ pandas
 sckikit-learn
 matplotlib
 seaborn
+shap
